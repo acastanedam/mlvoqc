@@ -12,3 +12,6 @@ doc:
 
 clean:
 	dune clean
+
+extract:
+	cd extraction; ./extract.sh
